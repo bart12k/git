@@ -13,7 +13,6 @@ for($i=1; $i<=1000; $i++){
 
     echo $i;
 }
-#cooo
 
- 
+#et-et-et-et 
 ?> 
