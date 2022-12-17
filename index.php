@@ -14,5 +14,5 @@ for($i=1; $i<=1000; $i++){
     echo $i;
 }
 
-#et-et-et-et 
+#et-et-et-et #hochu $
 ?> 
